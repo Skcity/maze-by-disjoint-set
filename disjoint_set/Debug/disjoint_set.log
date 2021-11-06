@@ -1,0 +1,5 @@
+﻿  mian.cpp
+C:\Users\sk\source\repos\disjoint_set\mian.cpp(71,20): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\sk\source\repos\disjoint_set\mian.cpp(101,20): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\sk\source\repos\disjoint_set\mian.cpp(104,13): warning C4018: “<”: 有符号/无符号不匹配
+  disjoint_set.vcxproj -> C:\Users\sk\source\repos\disjoint_set\Debug\disjoint_set.exe

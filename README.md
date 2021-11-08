@@ -1,3 +1,3 @@
 # maze-by-disjoint-set
 
-base easyX
+By easyX
